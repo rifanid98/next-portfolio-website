@@ -17,7 +17,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "jsx": "preserve",
-    "baseUrl": "./src",
+    "baseUrl": "./",
     "paths": {
       "adapter": ["./adapter"],
       "common": ["./common"],
@@ -27,7 +27,7 @@
       "pages": ["./pages"],
       "public": ["./public"],
       "styles": ["./styles"],
-      "usecase": ["./usecase"],
+      "usecase": ["./usecase"]
     }
   },
   "include": [
