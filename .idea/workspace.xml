@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba252791-06ad-4fb1-b41c-ba98455032fa" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/constant/rest.constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/constants/rest.constant.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/entity/portfolio.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/entity/portfolio.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/entity/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/entity/service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/entity/skill.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/entity/skill.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +18,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -107,7 +94,7 @@
       <workItem from="1635590489238" duration="4906000" />
       <workItem from="1635606997726" duration="2947000" />
       <workItem from="1635645958403" duration="2725000" />
-      <workItem from="1636856105336" duration="5891000" />
+      <workItem from="1636856105336" duration="6770000" />
     </task>
     <servers />
   </component>
