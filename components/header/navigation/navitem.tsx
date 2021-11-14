@@ -1,5 +1,5 @@
-import { NavigationMenuProps } from 'common/types';
 import React from 'react';
+import { NavigationMenuProps } from 'common/types';
 
 const NavItem: React.FC<NavigationMenuProps> = (props) => {
   const { name, target, icon } = props;

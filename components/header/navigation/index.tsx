@@ -1,5 +1,5 @@
-import React from 'react';
 import { NavigationProps } from 'common/types';
+import React from 'react';
 import NavItem from './navitem';
 
 const Navigation: React.FC<NavigationProps> = (props) => {

@@ -1,5 +1,5 @@
-import { AboutItem } from 'common/types';
 import React from 'react';
+import { AboutItem } from 'common/types';
 
 const AboutInfoItem: React.FC<AboutItem> = (props) => {
   const { title, description1, description2 } = props;

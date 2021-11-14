@@ -1,5 +1,5 @@
-import { SkillsProps } from 'common/types';
 import React from 'react';
+import { SkillsProps } from 'common/types';
 import Skills from './Skills';
 
 const Index: React.FC = () => {

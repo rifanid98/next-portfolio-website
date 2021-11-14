@@ -1,6 +1,6 @@
 import React from 'react';
+import { NavigationMenuProps } from 'common/types';
 import Navigation from './navigation';
-import { NavigationMenuProps } from '../../common/types';
 
 const Header: React.FC = () => {
   const menus: NavigationMenuProps[] = [
