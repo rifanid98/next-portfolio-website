@@ -15,7 +15,7 @@ const Index = () => (
       <link rel="stylesheet" href="assets/css/swiper-bundle.min.css" />
       {/* <!--==================== CSS ====================--> */}
       <link rel="stylesheet" href="assets/css/styles.css" />
-      <title>Responsive Portfolio Website</title>
+      <title>Adnin Rifandi Sutanto Putra</title>
     </Head>
     <Header />
     <Main />
