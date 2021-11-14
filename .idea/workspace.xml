@@ -3,17 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="ba252791-06ad-4fb1-b41c-ba98455032fa" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/api/hello.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/vercel.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Home.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/constant/rest.constant.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/common/constants/rest.constant.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/entity/portfolio.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/entity/portfolio.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/entity/service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/entity/service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/entity/skill.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/entity/skill.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,21 +39,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/domain/entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/public/assets/img" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/domain/entity" />
+      <recent name="$PROJECT_DIR$/src/public/assets/img" />
+      <recent name="$PROJECT_DIR$/src/components/main/sections" />
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/src/public/pdf" />
+      <recent name="$PROJECT_DIR$/src/public/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components/main/sections/TestimonialSection" />
+      <recent name="$PROJECT_DIR$/src/components/main/sections/SkillsSection" />
+      <recent name="$PROJECT_DIR$/src/components/main/sections/ServicesSection" />
+      <recent name="$PROJECT_DIR$/src/components/main/sections/QualificationSection" />
+      <recent name="$PROJECT_DIR$/src/components/main/sections/ProjectSection" />
     </key>
   </component>
   <component name="RunManager" selected="npm.dev">
@@ -93,7 +101,13 @@
       <option name="presentableId" value="Default" />
       <updated>1635256569597</updated>
       <workItem from="1635256572331" duration="90000" />
-      <workItem from="1635256693721" duration="4376000" />
+      <workItem from="1635256693721" duration="4483000" />
+      <workItem from="1635426213636" duration="11889000" />
+      <workItem from="1635589220555" duration="843000" />
+      <workItem from="1635590489238" duration="4906000" />
+      <workItem from="1635606997726" duration="2947000" />
+      <workItem from="1635645958403" duration="2725000" />
+      <workItem from="1636856105336" duration="5891000" />
     </task>
     <servers />
   </component>

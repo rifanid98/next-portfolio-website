@@ -1,8 +1,11 @@
+import { SubSkill } from './subskill';
+
 export type Skill = {
   id: number
   name: string
   experience: string
-  icon: string
+  icon: string,
+  subSkill: SubSkill[]
 };
 
 export const newSkill = (): Skill => ({
@@ -10,4 +13,5 @@ export const newSkill = (): Skill => ({
   name: '',
   experience: '',
   icon: '',
+  subSkill: [],
 });
